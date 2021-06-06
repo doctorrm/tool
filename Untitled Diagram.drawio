@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T03:29:38.208Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="9ka9TvteNOs2yyqI1-zN" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-06T03:36:20.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="28GWZnp29S-u0g-Hhj1O" version="14.7.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1573" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1371" dy="516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,6 +174,57 @@
         </mxCell>
         <mxCell id="Idzp_B0AjTieMuo_t976-27" value="&lt;font style=&quot;font-size: 20px&quot;&gt;ME&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=1;direction=north;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="483" y="3464" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Idzp_B0AjTieMuo_t976-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Idzp_B0AjTieMuo_t976-28" target="Idzp_B0AjTieMuo_t976-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Idzp_B0AjTieMuo_t976-28" value="*.java" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.code_file;pointerEvents=1;rounded=0;shadow=0;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="503" y="3683" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Idzp_B0AjTieMuo_t976-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=33.5;entryPerimeter=0;" edge="1" parent="1" source="Idzp_B0AjTieMuo_t976-29" target="Idzp_B0AjTieMuo_t976-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Idzp_B0AjTieMuo_t976-29" value="*.class" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#d6b656;fillColor=#fff2cc;shape=mxgraph.azure.code_file;pointerEvents=1;rounded=0;shadow=0;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="3683" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Idzp_B0AjTieMuo_t976-30" value="类加载器" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=0;shadow=0;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="677" y="3675" width="192" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Idzp_B0AjTieMuo_t976-31" value="运行时数据区" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=0;shadow=0;comic=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="511" y="3790" width="366" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Idzp_B0AjTieMuo_t976-32" value="执行引擎" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=0;shadow=0;comic=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="511.5" y="3905" width="117" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Idzp_B0AjTieMuo_t976-43" value="JNI" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=0;shadow=0;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="3905" width="117" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Idzp_B0AjTieMuo_t976-44" value="本地方法库" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=0;shadow=0;comic=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="768.86" y="3908" width="117" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Idzp_B0AjTieMuo_t976-52" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.168;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Idzp_B0AjTieMuo_t976-32" target="Idzp_B0AjTieMuo_t976-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="627" y="3899" as="sourcePoint" />
+            <mxPoint x="677" y="3849" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Idzp_B0AjTieMuo_t976-53" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.168;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="691.6560403530896" y="3905" as="sourcePoint" />
+            <mxPoint x="691.0000000000002" y="3877.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Idzp_B0AjTieMuo_t976-56" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.871;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Idzp_B0AjTieMuo_t976-44" target="Idzp_B0AjTieMuo_t976-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="915" y="3935" as="sourcePoint" />
+            <mxPoint x="965" y="3885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Idzp_B0AjTieMuo_t976-57" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0;entryDx=20;entryDy=87;entryPerimeter=0;" edge="1" parent="1" source="Idzp_B0AjTieMuo_t976-31" target="Idzp_B0AjTieMuo_t976-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664" y="3810" as="sourcePoint" />
+            <mxPoint x="680" y="3759" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
