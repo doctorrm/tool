@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T13:24:04.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="ojMbk-ya3Fx2KcVbntbr" version="14.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-23T13:35:07.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="1Moy0xuWtcN57JDcFPOM" version="14.8.0" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1808" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -2055,6 +2055,120 @@
             <mxPoint x="-590" y="13097" as="sourcePoint" />
             <mxPoint x="-648" y="12920" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-122" value="张家村第一代" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-302.37" y="13109" width="88.37" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-123" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-610.26" y="13576" width="50" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-126" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-564" y="13395" width="595" height="374.85" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-143" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-704.26" y="13500" width="50" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-144" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-704.26" y="13644" width="50" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-145" value="&lt;b&gt;张家村 144.14.0.0&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-361.99" y="13576" width="117" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-146" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="vwL1dM0zKNhNEckbEIZh-123" target="vwL1dM0zKNhNEckbEIZh-143">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-643.26" y="13543" as="sourcePoint" />
+            <mxPoint x="-593.26" y="13493" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-147" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="vwL1dM0zKNhNEckbEIZh-144" target="vwL1dM0zKNhNEckbEIZh-143">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-697.26" y="13631" as="sourcePoint" />
+            <mxPoint x="-647.26" y="13581" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-148" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="vwL1dM0zKNhNEckbEIZh-144" target="vwL1dM0zKNhNEckbEIZh-123">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-607.26" y="13694" as="sourcePoint" />
+            <mxPoint x="-557.26" y="13644" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-149" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffff88;strokeColor=#36393d;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-641" y="13537.5" as="sourcePoint" />
+            <mxPoint x="-601.83" y="13566.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-150" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#ffff88;strokeColor=#36393d;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-655.7" y="13642" as="sourcePoint" />
+            <mxPoint x="-611.7" y="13611" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-151" value="&lt;span&gt;所有到网络144.14.0.0的分组均会经过此路由器&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;position2=0.51;base=18;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-637" y="13476" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-152" value="我的网络地址是144.14.0.0" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-635.26" y="13739" width="117" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-153" value="" style="endArrow=open;html=1;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="vwL1dM0zKNhNEckbEIZh-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-635.26" y="13748" as="sourcePoint" />
+            <mxPoint x="-627.26" y="13631" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-154" value="" style="endArrow=open;html=1;endFill=0;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-576.26" y="13737" as="sourcePoint" />
+            <mxPoint x="-634.26" y="13560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-155" value="张家村第二代" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-69.12000000000012" y="13735" width="88.37" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-157" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-520.25" y="13550" width="133.26" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-132" value="144.14.7.1" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-511.37" y="13572" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-134" value="144.14.7.2" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-445" y="13553" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-158" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;张三家&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-475.5" y="13554.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-159" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-387.37" y="13402" width="220" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-125" value="144.14.3.1" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-373.18" y="13412" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-128" value="144.14.3.3" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-229" y="13409" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-130" value="144.14.3.2" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-238.75000000000006" y="13481" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-138" value="144.14.3.4" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-333" y="13477" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-160" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;张良家&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-299" y="13409" width="63" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-161" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-223.88" y="13595" width="175.85" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-136" value="144.14.5.1" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-155" y="13646" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-140" value="144.14.5.3" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-102.63" y="13599" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-142" value="144.14.5.2" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-210" y="13599" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vwL1dM0zKNhNEckbEIZh-162" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;张飞家&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-164" y="13595" width="63" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
