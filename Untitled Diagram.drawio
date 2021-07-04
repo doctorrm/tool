@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T15:05:09.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="NA5XJLjnOPZK39wnFOqs" version="14.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-04T15:05:41.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="riXogxot_x53JRob7OrK" version="14.8.2" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1808" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -2357,15 +2357,10 @@
         <mxCell id="vwL1dM0zKNhNEckbEIZh-236" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;默认子网掩码&lt;/b&gt;&lt;/font&gt;为255.255.0.0，与IP地址&quot;与&quot;运算，将结果与&lt;br&gt;目的网络地址对比" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="t4UdVl8dg5VgNK2BOj60-1" vertex="1">
           <mxGeometry x="-750.17" y="14407" width="167.5" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="pccnTWpRmplz6oZp0rou-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="pccnTWpRmplz6oZp0rou-2" target="pccnTWpRmplz6oZp0rou-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-488" y="15401" />
-              <mxPoint x="-488" y="15322" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="pccnTWpRmplz6oZp0rou-2" target="pccnTWpRmplz6oZp0rou-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pccnTWpRmplz6oZp0rou-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="pccnTWpRmplz6oZp0rou-2" target="pccnTWpRmplz6oZp0rou-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;基础型NAT&lt;br&gt;（无需打洞）&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
@@ -2386,10 +2381,16 @@
           <mxGeometry x="-678.74" y="15607" width="148" height="63" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-9" value="&lt;font style=&quot;font-size: 20px&quot;&gt;静态NAT&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
-          <mxGeometry x="-448.75" y="15290" width="148" height="63" as="geometry" />
+          <mxGeometry x="-445" y="15329" width="148" height="63" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-11" value="&lt;font style=&quot;font-size: 20px&quot;&gt;动态NAT&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
-          <mxGeometry x="-445" y="15436" width="148" height="63" as="geometry" />
+          <mxGeometry x="-443.01" y="15404" width="148" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="pccnTWpRmplz6oZp0rou-13" value="&lt;font style=&quot;font-size: 20px&quot;&gt;静态NAT&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-448.75" y="15582" width="148" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="pccnTWpRmplz6oZp0rou-14" value="&lt;font style=&quot;font-size: 20px&quot;&gt;动态NAT&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-445" y="15728" width="148" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
