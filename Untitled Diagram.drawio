@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T13:54:28.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="I9t-eiW5RrV52lR_N7Ix" version="14.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-05T13:54:56.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="V9EquhK7X4TOxFTB3Udj" version="14.8.2" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1808" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -2484,13 +2484,13 @@
         <mxCell id="pccnTWpRmplz6oZp0rou-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="pccnTWpRmplz6oZp0rou-47" target="pccnTWpRmplz6oZp0rou-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pccnTWpRmplz6oZp0rou-47" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+        <mxCell id="pccnTWpRmplz6oZp0rou-47" value="IPv4" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
           <mxGeometry x="-666" y="16303" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="pccnTWpRmplz6oZp0rou-48" target="pccnTWpRmplz6oZp0rou-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pccnTWpRmplz6oZp0rou-48" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+        <mxCell id="pccnTWpRmplz6oZp0rou-48" value="IPv4" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
           <mxGeometry x="-560.8199999999999" y="16303" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="pccnTWpRmplz6oZp0rou-49" target="pccnTWpRmplz6oZp0rou-50">
