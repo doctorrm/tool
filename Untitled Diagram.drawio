@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T13:54:56.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="V9EquhK7X4TOxFTB3Udj" version="14.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-05T13:58:14.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="sdYXEmvRFS1VmmpX9X0z" version="14.8.2" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1808" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -287,12 +287,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="53nCi289PsQuE4W-2JyY" name="第 2 页">
-    <mxGraphModel dx="2171" dy="116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1870" dy="-44" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="t4UdVl8dg5VgNK2BOj60-0" />
         <mxCell id="t4UdVl8dg5VgNK2BOj60-1" parent="t4UdVl8dg5VgNK2BOj60-0" />
         <mxCell id="pccnTWpRmplz6oZp0rou-51" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;comic=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
-          <mxGeometry x="-723.01" y="16233" width="253.01" height="162" as="geometry" />
+          <mxGeometry x="-724.38" y="16340" width="253.01" height="162" as="geometry" />
         </mxCell>
         <mxCell id="t4UdVl8dg5VgNK2BOj60-2" value="网络层（IP）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;comic=1;" parent="t4UdVl8dg5VgNK2BOj60-1" vertex="1">
           <mxGeometry x="371" y="623" width="254" height="52" as="geometry" />
@@ -2473,37 +2473,53 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-45" value="IPv6主机" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
-          <mxGeometry x="-903" y="16297" width="45" height="50" as="geometry" />
+          <mxGeometry x="-904.37" y="16404" width="45" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="pccnTWpRmplz6oZp0rou-46" target="pccnTWpRmplz6oZp0rou-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-46" value="IPv6/IPv4&lt;br&gt;双协议栈" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
-          <mxGeometry x="-761.5" y="16303" width="50" height="38" as="geometry" />
+          <mxGeometry x="-762.87" y="16410" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="pccnTWpRmplz6oZp0rou-47" target="pccnTWpRmplz6oZp0rou-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-47" value="IPv4" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
-          <mxGeometry x="-666" y="16303" width="50" height="38" as="geometry" />
+          <mxGeometry x="-667.37" y="16410" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="pccnTWpRmplz6oZp0rou-48" target="pccnTWpRmplz6oZp0rou-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-48" value="IPv4" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
-          <mxGeometry x="-560.8199999999999" y="16303" width="50" height="38" as="geometry" />
+          <mxGeometry x="-562.1899999999999" y="16410" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1" source="pccnTWpRmplz6oZp0rou-49" target="pccnTWpRmplz6oZp0rou-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-49" value="IPv6/IPv4&lt;br&gt;双协议栈" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/router.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
-          <mxGeometry x="-460.37" y="16303" width="50" height="38" as="geometry" />
+          <mxGeometry x="-461.74" y="16410" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-50" value="IPv6主机" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/laptop_client.svg;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
-          <mxGeometry x="-324.64" y="16297" width="45" height="50" as="geometry" />
+          <mxGeometry x="-326.01" y="16404" width="45" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pccnTWpRmplz6oZp0rou-52" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;IPv4网络&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
-          <mxGeometry x="-634.7" y="16273" width="70" height="21" as="geometry" />
+          <mxGeometry x="-636.07" y="16380" width="70" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="pccnTWpRmplz6oZp0rou-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-734.9414285714287" y="16406.857142857145" as="targetPoint" />
+            <mxPoint x="-827.37" y="16285" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-735.37" y="16315" />
+              <mxPoint x="-735.37" y="16361" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pccnTWpRmplz6oZp0rou-66" value="DNS域名系统" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;comic=1;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-855.5600000000001" y="16265" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pccnTWpRmplz6oZp0rou-68" value="你的下一个节点采用IPv4协议，它的IP是xx.xx.xx.xx" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="t4UdVl8dg5VgNK2BOj60-1">
+          <mxGeometry x="-918.19" y="16214" width="176.36" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
